@@ -35,6 +35,6 @@ a space for an empty slot).
 
   Hints:
   
-+You can use two dimensions array.
-+Computer can play at any random column. Search how you can generate random number between 1 and 7.
-+It will be a plus from you if you can make computer be a little clever . 
+* You can use two dimensions array.
+* Computer can play at any random column. Search how you can generate random number between 1 and 7.
+* It will be a plus from you if you can make computer be a little clever . 
