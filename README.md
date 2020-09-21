@@ -40,6 +40,6 @@ a space for an empty slot).
 * It will be a plus from you if you can make computer be a little clever . 
 
 
-[Imgur](https://i.imgur.com/PXD6z0I.png)
+![Imgur](https://i.imgur.com/PXD6z0I.png)
 
 
