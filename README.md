@@ -40,16 +40,6 @@ a space for an empty slot).
 * It will be a plus from you if you can make computer be a little clever . 
 
 
-
-
-
-   |   |   |   |   |   |   |   
-   |   |   |   |   |   |   |   
-   |   |   |   |   |   |   |   
-   |   |   | X |   | O |   |   
-   |   | X | X |   | X |   |   
-   | O | O | O |   | O |   |   
-   | X | O | X |   | X |   |    
--------------------------------
+[Imgur](https://i.imgur.com/PXD6z0I.png)
 
 
